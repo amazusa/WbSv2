@@ -1,0 +1,852 @@
+w	ー
+W	〜
+~	〜
+r	。
+R	！
+v	、
+V	？
+qv	・
+qr	…
+qj	←
+qk	↓
+qi	↑
+ql	→
+[	「
+]	」
+yy	っ	y
+uu	っ	u
+ii	っ	i
+nn	っ	n
+pp	っ	p
+tt	っ	t
+jj	っ	j
+kk	っ	k
+ll	っ	l
+;;	っ	;
+bb	っ	b
+nn	っ	n
+mm	っ	m
+,,	っ	,
+..	っ	.
+//	っ	/
+yY	っ	Y
+uU	っ	U
+iI	っ	I
+oO	っ	O
+pP	っ	P
+tT	っ	T
+jJ	っ	J
+kK	っ	K
+lL	っ	L
+;:	っ	:
+bB	っ	B
+nN	っ	N
+mM	っ	M
+,<	っ	<
+.>	っ	>
+/?	っ	?
+YY	っ	Y
+UU	っ	U
+II	っ	I
+OO	っ	O
+PP	っ	P
+TT	っ	T
+JJ	っ	J
+KK	っ	K
+LL	っ	L
+::	っ	:
+BB	っ	B
+NN	っ	N
+MM	っ	M
+<<	っ	<
+>>	っ	>
+??	っ	?
+d	あ
+s	い
+e	う
+a	え
+f	お
+x	あい
+z	えい
+c	おう
+X	やい
+Z	いぇい
+C	よう
+D	や
+S	いぃ
+E	ゆ
+A	いぇ
+F	よ
+qd	ぁ
+qs	ぃ
+qe	ぅ
+qa	ぇ
+qf	ぉ
+
+jd	か
+js	き
+je	く
+ja	け
+jf	こ
+jx	かい
+jz	けい
+jw	くう
+jc	こう
+
+jtd	きゃ
+jts	きぃ
+jte	きゅ
+jta	きぇ
+jtf	きょ
+jD	きゃ
+jS	きぃ
+jE	きゅ
+jA	きぇ
+jF	きょ
+jtD	きゃ
+jtS	きぃ
+jtE	きゅ
+jtA	きぇ
+jtF	きょ
+jtx	きゃい
+jtz	きぇい
+jtw	きゅう
+jtc	きょう
+jX	きゃい
+jZ	きぇい
+jW	きゅう
+jC	きょう
+jtX	きゃい
+jtZ	きぇい
+jtW	きゅう
+jtC	きょう
+
+jnd	くぁ
+jns	くぃ
+jne	くぅ
+jna	くぇ
+jnf	くぉ
+jnx	くぁい
+jnz	くぇい
+jnw	くぅう
+jnc	くぉう
+
+qmd	ヵ
+qme	ㇰ
+qma	ヶ
+
+md	が
+ms	ぎ
+me	ぐ
+ma	げ
+mf	ご
+mx	がい
+mz	げい
+mw	ぐう
+mc	ごう
+
+mtd	ぎゃ
+mts	ぎぃ
+mte	ぎゅ
+mta	ぎぇ
+mtf	ぎょ
+mD	ぎゃ
+mS	ぎぃ
+mE	ぎゅ
+mA	ぎぇ
+mF	ぎょ
+mtD	ぎゃ
+mtS	ぎぃ
+mtE	ぎゅ
+mtA	ぎぇ
+mtF	ぎょ
+mtx	ぎゃい
+mtz	ぎぇい
+mtw	ぎゅう
+mtc	ぎょう
+mX	ぎゃい
+mZ	ぎぇい
+mW	ぎゅう
+mC	ぎょう
+mtX	ぎゃい
+mtZ	ぎぇい
+mtW	ぎゅう
+mtC	ぎょう
+
+mnd	ぐぁ
+mns	ぐぃ
+mne	ぐぅ
+mna	ぐぇ
+mnf	ぐぉ
+mnx	ぐぁい
+mnz	ぐぇい
+mnw	ぐぅう
+mnc	ぐぉう
+
+kd	さ
+ks	し
+ke	す
+ka	せ
+kf	そ
+kx	さい
+kz	せい
+kw	すう
+kc	そう
+
+ktd	しゃ
+kts	しぃ
+kte	しゅ
+kta	しぇ
+ktf	しょ
+kD	しゃ
+kS	しぃ
+kE	しゅ
+kA	しぇ
+kF	しょ
+ktD	しゃ
+ktS	しぃ
+ktE	しゅ
+ktA	しぇ
+ktF	しょ
+ktx	しゃい
+ktz	しぇい
+ktw	しゅう
+ktc	しょう
+kX	しゃい
+kZ	しぇい
+kW	しゅう
+kC	しょう
+ktX	しゃい
+ktZ	しぇい
+ktW	しゅう
+ktC	しょう
+
+q,s	ㇱ
+q,e	ㇲ
+
+,d	ざ
+,s	じ
+,e	ず
+,a	ぜ
+,f	ぞ
+,x	ざい
+,z	ぜい
+,w	ずう
+,c	ぞう
+
+,td	じゃ
+,ts	じぃ
+,te	じゅ
+,ta	じぇ
+,tf	じょ
+,D	じゃ
+,S	じぃ
+,E	じゅ
+,A	じぇ
+,F	じょ
+,tD	じゃ
+,tS	じぃ
+,tE	じゅ
+,tA	じぇ
+,tF	じょ
+,tx	じゃい
+,tz	じぇい
+,tw	じゅう
+,tc	じょう
+,X	じゃい
+,Z	じぇい
+,W	じゅう
+,C	じょう
+,tX	じゃい
+,tZ	じぇい
+,tW	じゅう
+,tC	じょう
+
+knd	すぁ
+kns	すぃ
+kne	すぅ
+kna	すぇ
+knf	すぉ
+knx	すぁい
+knz	すぇい
+knw	すぅう
+knc	すぉう
+
+,nd	ずぁ
+,ns	ずぃ
+,ne	ずぅ
+,na	ずぇ
+,nf	ずぉ
+,nx	ずぁい
+,nz	ずぇい
+,nw	ずぅう
+,nc	ずぉう
+
+k;d	すゃ
+k;s	すぃ
+k;e	すゅ
+k;a	すぇ
+k;f	すょ
+k;x	すゃい
+k;z	すぇい
+k;w	すゅう
+k;c	すょう
+
+,;d	ずゃ
+,;s	ずぃ
+,;e	ずゅ
+,;a	ずぇ
+,;f	ずぉ
+,;x	ずゃい
+,;z	ずぇい
+,;w	ずゅう
+,;c	ずょう
+
+
+ld	た
+ls	ち
+le	つ
+la	て
+lf	と
+lx	たい
+lz	てい
+lw	つう
+lc	とう
+
+ltd	ちゃ
+lts	ちぃ
+lte	ちゅ
+lta	ちぇ
+ltf	ちょ
+lD	ちゃ
+lS	ちぃ
+lE	ちゅ
+lA	ちぇ
+lF	ちょ
+ltD	ちゃ
+ltS	ちぃ
+ltE	ちゅ
+ltA	ちぇ
+ltF	ちょ
+ltx	ちゃい
+ltz	ちぇい
+ltw	ちゅう
+ltc	ちょう
+lX	ちゃい
+lZ	ちぇい
+lW	ちゅう
+lC	ちょう
+ltX	ちゃい
+ltZ	ちぇい
+ltW	ちゅう
+ltC	ちょう
+
+q.e	っ
+q.f	ㇳ
+
+.d	だ
+.s	ぢ
+.e	づ
+.a	で
+.f	ど
+.x	だい
+.z	でい
+.w	づう
+.c	どう
+
+.td	ぢゃ
+.ts	ぢぃ
+.te	ぢゅ
+.ta	ぢぇ
+.tf	ぢょ
+.D	ぢゃ
+.S	ぢぃ
+.E	ぢゅ
+.A	ぢぇ
+.F	ぢょ
+.tD	ぢゃ
+.tS	ぢぃ
+.tE	ぢゅ
+.tA	ぢぇ
+.tF	ぢょ
+.tx	ぢゃい
+.tz	ぢぇい
+.tw	ぢゅう
+.tc	ぢょう
+.X	ぢゃい
+.Z	ぢぇい
+.W	ぢゅう
+.C	ぢょう
+.tX	ぢゃい
+.tZ	ぢぇい
+.tW	ぢゅう
+.tC	ぢょう
+
+
+lkd	つぁ
+lks	つぃ
+lke	つぅ
+lka	つぇ
+lkf	つぉ
+lkx	つぁい
+lkz	つぇい
+lkw	つぅう
+lkc	つぉう
+
+l;d	てゃ
+l;s	てぃ
+l;e	てゅ
+l;a	てぇ
+l;f	てょ
+l;x	てゃい
+l;z	てぇい
+l;w	てゅう
+l;c	てょう
+
+.;d	でゃ
+.;s	でぃ
+.;e	でゅ
+.;a	でぇ
+.;f	でょ
+.;x	でゃい
+.;z	でぇい
+.;w	でゅう
+.;c	でょう
+
+lnd	とぁ
+lns	とぃ
+lne	とぅ
+lna	とぇ
+lnf	とぉ
+lnx	とぁい
+lnz	とぇい
+lnw	とぅう
+lnc	とぉう
+
+.nd	どぁ
+.ns	どぃ
+.ne	どぅ
+.na	どぇ
+.nf	どぉ
+.nx	どぁい
+.nz	どぇい
+.nw	どぅう
+.nc	どぉう
+
+
+id	な
+is	に
+ie	ぬ
+ia	ね
+if	の
+ix	ない
+iz	ねい
+iw	ぬう
+ic	のう
+
+itd	にゃ
+its	にぃ
+ite	にゅ
+ita	にぇ
+itf	にょ
+iD	にゃ
+iS	にぃ
+iE	にゅ
+iA	にぇ
+iF	にょ
+itD	にゃ
+itS	にぃ
+itE	にゅ
+itA	にぇ
+itF	にょ
+itx	にゃい
+itz	にぇい
+itw	にゅう
+itc	にょう
+iX	にゃい
+iZ	にぇい
+iW	にゅう
+iC	にょう
+itX	にゃい
+itZ	にぇい
+itW	にゅう
+itC	にょう
+
+ind	ぬぁ
+ins	ぬぃ
+ine	ぬぅ
+ina	ぬぇ
+inf	ぬぉ
+inx	ぬぁい
+inz	ぬぇい
+inw	ぬぅう
+inc	ぬぉう
+
+qy	ㇴ
+
+;d	は
+;s	ひ
+;e	ふ
+;a	へ
+;f	ほ
+;x	はい
+;z	へい
+;w	ふう
+;c	ほう
+
+;td	ひゃ
+;ts	ひぃ
+;te	ひゅ
+;ta	ひぇ
+;tf	ひょ
+;D	ひゃ
+;S	ひぃ
+;E	ひゅ
+;A	ひぇ
+;F	ひょ
+;tD	ひゃ
+;tS	ひぃ
+;tE	ひゅ
+;tA	ひぇ
+;tF	ひょ
+;tx	ひゃい
+;tz	ひぇい
+;tw	ひゅう
+;tc	ひょう
+;X	ひゃい
+;Z	ひぇい
+;W	ひゅう
+;C	ひょう
+;tX	ひゃい
+;tZ	ひぇい
+;tW	ひゅう
+;tC	ひょう
+
+q/d	ㇵ
+q/s	ㇶ
+q/e	ㇷ
+q/a	ㇸ
+q/f	ㇹ
+
+/d	ば
+/s	び
+/e	ぶ
+/a	べ
+/f	ぼ
+/x	ばい
+/z	べい
+/w	ぶう
+/c	ぼう
+
+/td	びゃ
+/ts	びぃ
+/te	びゅ
+/ta	びぇ
+/tf	びょ
+/D	びゃ
+/S	びぃ
+/E	びゅ
+/A	びぇ
+/F	びょ
+/tD	びゃ
+/tS	びぃ
+/tE	びゅ
+/tA	びぇ
+/tF	びょ
+/tx	びゃい
+/tz	びぇい
+/tw	びゅう
+/tc	びょう
+/X	びゃい
+/Z	びぇい
+/W	びゅう
+/C	びょう
+/tX	びゃい
+/tZ	びぇい
+/tW	びゅう
+/tC	びょう
+
+pd	ぱ
+ps	ぴ
+pe	ぷ
+pa	ぺ
+pf	ぽ
+px	ぱい
+pz	ぺい
+pw	ぷう
+pc	ぽう
+
+ptd	ぴゃ
+pts	ぴぃ
+pte	ぴゅ
+pta	ぴぇ
+ptf	ぴょ
+pD	ぴゃ
+pS	ぴぃ
+pE	ぴゅ
+pA	ぴぇ
+pF	ぴょ
+ptD	ぴゃ
+ptS	ぴぃ
+ptE	ぴゅ
+ptA	ぴぇ
+ptF	ぴょ
+ptx	ぴゃい
+ptz	ぴぇい
+ptw	ぴゅう
+ptc	ぴょう
+pX	ぴゃい
+pZ	ぴぇい
+pW	ぴゅう
+pC	ぴょう
+ptX	ぴゃい
+ptZ	ぴぇい
+ptW	ぴゅう
+ptC	ぴょう
+
+pnd	ぷぁ
+pns	ぷぃ
+pne	ぷぅ
+pna	ぷぇ
+pnf	ぷぉ
+pnx	ぷぁい
+pnz	ぷぇい
+pnw	ぷぅう
+pnc	ぷぉう
+
+qp	ㇷ゚
+
+yd	ふぁ
+ys	ふぃ
+ye	ふぅ
+ya	ふぇ
+yf	ふぉ
+yx	ふぁい
+yz	ふぇい
+yw	ふぅう
+yc	ふぉう
+
+ytd	ふゃ
+yts	ふぃ
+yte	ふゅ
+yta	ふぇ
+ytf	ふょ
+yD	ふゃ
+yS	ふぃ
+yE	ふゅ
+yA	ふぇ
+yF	ふょ
+ytD	ふゃ
+ytS	ふぃ
+ytE	ふゅ
+ytA	ふぇ
+ytF	ふょ
+ytx	ふゃい
+ytz	ふぇい
+ytw	ふゅう
+ytc	ふょう
+yX	ふゃい
+yZ	ふぇい
+yW	ふゅう
+yC	ふょう
+ytX	ふゃい
+ytZ	ふぇい
+ytW	ふゅう
+ytC	ふょう
+
+bd	ゔぁ
+bs	ゔぃ
+be	ゔ
+ba	ゔぇ
+bf	ゔぉ
+bF	ゔぉ
+bx	ゔぁい
+bz	ゔぇい
+bw	ゔう
+bc	ゔぉう
+
+btd	ゔゃ
+bts	ゔぃ
+bte	ゔゅ
+bta	ゔぇ
+btf	ゔょ
+bD	ゔゃ
+bS	ゔぃ
+bE	ゔゅ
+bA	ゔぇ
+bF	ゔょ
+btD	ゔゃ
+btS	ゔぃ
+btE	ゔゅ
+btA	ゔぇ
+btF	ゔょ
+btx	ゔゃい
+btz	ゔぇい
+btw	ゔゅう
+btc	ゔょう
+bX	ゔゃい
+bZ	ゔぇい
+bW	ゔゅう
+bC	ゔょう
+btX	ゔゃい
+btZ	ゔぇい
+btW	ゔゅう
+btC	ゔょう
+
+ud	ま
+us	み
+ue	む
+ua	め
+uf	も
+ux	まい
+uz	めい
+uw	むう
+uc	もう
+
+utd	みゃ
+uts	みぃ
+ute	みゅ
+uta	みぇ
+utf	みょ
+uD	みゃ
+uS	みぃ
+uE	みゅ
+uA	みぇ
+uF	みょ
+utD	みゃ
+utS	みぃ
+utE	みゅ
+utA	みぇ
+utF	みょ
+utx	みゃい
+utz	みぇい
+utw	みゅう
+utc	みょう
+uX	みゃい
+uZ	みぇい
+uW	みゅう
+uC	みょう
+utX	みゃい
+utZ	みぇい
+utW	みゅう
+utC	みょう
+
+qu	ㇺ
+
+td	や
+ts	いぃ
+te	ゆ
+ta	いぇ
+tf	よ
+tx	やい
+tz	いぇい
+tw	ゆう
+tc	よう
+
+qtd	ゃ
+qts	ぃ
+qte	ゅ
+qta	ぇ
+qtf	ょ
+qx	ゃ
+qz	ゅ
+qc	ょ
+
+od	ら
+os	り
+oe	る
+oa	れ
+of	ろ
+ox	らい
+oz	れい
+ow	るう
+oc	ろう
+
+otd	りゃ
+ots	りぃ
+ote	りゅ
+ota	りぇ
+otf	りょ
+oD	りゃ
+oS	りぃ
+oE	りゅ
+oA	りぇ
+oF	りょ
+otD	りゃ
+otS	りぃ
+otE	りゅ
+otA	りぇ
+otF	りょ
+otx	りゃい
+otz	りぇい
+otw	りゅう
+otc	りょう
+oX	りゃい
+oZ	りぇい
+oW	りゅう
+oC	りょう
+otX	りゃい
+otZ	りぇい
+otW	りゅう
+otC	りょう
+
+ond	るぁ
+ons	るぃ
+one	るぅ
+ona	るぇ
+onf	るぉ
+onx	るぁい
+onz	るぇい
+onw	るぅう
+onc	るぉう
+
+qod	ㇻ
+qos	ㇼ
+qoe	ㇽ
+qoa	ㇾ
+qof	ㇿ
+
+nd	わ
+ns	うぃ
+ne	うぅ
+na	うぇ
+nf	を
+nx	わい
+nz	うぇい
+nw	うう
+nc	うぉう
+
+n;d	うぁ
+n;s	うぃ
+n;e	うぅ
+n;a	うぇ
+n;f	うぉ
+n;x	うぁい
+n;z	うぇい
+n;w	うぅう
+n;c	うぉう
+
+Ns	ゐ
+Na	ゑ
+
+qn	ゎ
+
+g	ん
+h	ん
+G	ん
+H	ん
+
+Y		yt
+U		ut
+I		it
+O		ot
+P		pt
+J		jt
+K		kt
+L		lt
+:		;t
+B		bt
+M		mt
+<		,t
+>		.t
+?		/t
