@@ -1,12 +1,11 @@
 w	ー
-W	〜
 ~	〜
 r	。
 R	！
 v	、
 V	？
-qv	・
-qr	…
+T	・
+qw	～
 qj	←
 qk	↓
 qi	↑
@@ -61,6 +60,7 @@ MM	っ	M
 <<	っ	<
 >>	っ	>
 ??	っ	?
+
 d	あ
 s	い
 e	う
@@ -69,14 +69,16 @@ f	お
 x	あい
 z	えい
 c	おう
-X	やい
-Z	いぇい
-C	よう
 D	や
 S	いぃ
 E	ゆ
 A	いぇ
 F	よ
+X	やい
+Z	いぇい
+W	ゆう
+C	よう
+
 qd	ぁ
 qs	ぃ
 qe	ぅ
@@ -748,9 +750,6 @@ qts	ぃ
 qte	ゅ
 qta	ぇ
 qtf	ょ
-qx	ゃ
-qz	ゅ
-qc	ょ
 
 od	ら
 os	り
