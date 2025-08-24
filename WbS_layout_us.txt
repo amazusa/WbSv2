@@ -33,7 +33,6 @@ uU	っ	U
 iI	っ	I
 oO	っ	O
 pP	っ	P
-tT	っ	T
 jJ	っ	J
 kK	っ	K
 lL	っ	L
@@ -49,7 +48,6 @@ UU	っ	U
 II	っ	I
 OO	っ	O
 PP	っ	P
-TT	っ	T
 JJ	っ	J
 KK	っ	K
 LL	っ	L
